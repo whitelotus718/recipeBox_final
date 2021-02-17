@@ -1,0 +1,11 @@
+.singleArticle {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  border: 1px solid black;
+}
+
+hr {
+  border: 2px solid black;
+  width: 100%;
+}
